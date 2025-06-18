@@ -1,15 +1,27 @@
-# Tutorial_GNN_EcoleEte_CEA_EDF_INRIA2025
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/LOGO_CEA_ORIGINAL_2022.svg" style="height:80px" >     <img src="http://math.ens-paris-saclay.fr/images/photos/0004/img_1586336483577.jpg" style="height:80px" >     <img src="http://math.ens-paris-saclay.fr/images/photos/0004/img_1422545883599.jpeg"  style="height:80px">     <img src="https://www.defense.gouv.fr/sites/default/files/dga/Logotype_DGA_internet.png" style="height:80px" >     <img src="https://upload.wikimedia.org/wikipedia/fr/a/a3/EnsIIE_logo_Ecole-nationale-superieure_fx.svg"  style="height:80px"> 
 
-Short introduction to what this repository contains or aims to do.
+**Authors :** Xavier Cassagnou<sup>1,2</sup>, Aurélien Casagrandi<sup>1,4</sup>, <ins>Elodie Noëlé</ins><sup>1,3</sup>, Christophe Millet<sup>1,2</sup>, Mathilde Mougeot<sup>2,4</sup>
 
----
+**Affiliation :** 
 
-## Authors
+<sup>1</sup>CEA DAM DIF
 
-This work was developed by [Author Name 1], [Author Name 2], and [Author Name 3]. For more details, please refer to our article:
+<sup>2</sup>Centre Borelli, ENS Paris-Saclay, Université Paris-Saclay 
 
-📄 **[Title of the Article](https://doi.org/xx.xxxx/xxxxxx)**  
-✉️ Corresponding author: [author.email@example.com](mailto:author.email@example.com)
+<sup>3</sup>DGA
+
+<sup>4</sup>ENSIIE
+
+**Corresponding author:** [christophe.millet@cea.fr](mailto:christophe.millet@cea.fr)
+
+**Link to the article:** X. Cassagnou et al., **Dynamic graph neural networks for seismic characterization** (To be published)
+
+The data and models in this tutorial will be published upon acceptation of the article.
+
+**Date :** 19th June 2025
+
+**License :** MIT
+
 
 ---
 
@@ -19,7 +31,10 @@ You can try out the code and materials using the following resources:
 
 - ▶️ **[Open in Google Colab](https://colab.research.google.com/drive/your-colab-notebook-link)**
 - 📁 **[Download Materials from Google Drive](https://drive.google.com/drive/folders/your-folder-id)**
-- **[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gesis.mybinder.org/user/noeleel-tutoria-a_edf_inria2025-qcl4bvey/doc/tree/GNN_Tutorial.ipynb)
+
+## Run on Binder
+
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gesis.mybinder.org/user/noeleel-tutoria-a_edf_inria2025-qcl4bvey/doc/tree/GNN_Tutorial.ipynb)
 
 ---
 
@@ -27,25 +42,22 @@ You can try out the code and materials using the following resources:
 
 | Folder/File         | Description |
 |---------------------|-------------|
-| `src/`              | Source code for the main model and utilities. |
-| `notebooks/`        | Jupyter/Colab notebooks to run experiments and visualize results. |
+| `modules/`          | Source code for the main model and utilities. |
+| `oversmoothing/`    | Source code and plots for the oversmoothing part. |
 | `data/`             | Sample synthetic or preprocessed datasets. |
-| `assets/`           | Images, videos, or animations for demonstration. |
+| `images/`           | Images |
 | `README.md`         | This file. |
 
 ---
 
 ## Visual Overview
 
-### Example Image
-
-![Example Visualization](assets/example_image.png)
+<img src="./images/general_framework.png" alt="" width="1000" />
 
 ### Animated Output (Training or Results)
 
-![Training Animation](assets/training_animation.gif)
 
-> You can include `.gif` files or embed HTML5 video tags if supported by your viewer.
+<img src="./oversmoothing/PerNodes_LDG_L6_Ev0.gif" alt="" width="1000" />
 
 ---
 
