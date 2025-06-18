@@ -29,8 +29,8 @@ The data and models in this tutorial will be published upon acceptation of the a
 
 You can try out the code and materials using the following resources:
 
-- ▶️ **[Open in Google Colab]([https://colab.research.google.com/drive/your-colab-notebook-link](https://drive.google.com/file/d/1esIDkc7fMs2Im22hrHqVngjOdrpsuHno/view?usp=sharing))**
-- 📁 **[Download Materials from Google Drive]([https://drive.google.com/drive/folders/your-folder-id](https://drive.google.com/drive/folders/1np3upS_MheTeqs9HGSPPvrx6tDoSikIk?usp=sharing))**
+- ▶️ **[Open in Google Colab]((https://drive.google.com/file/d/1esIDkc7fMs2Im22hrHqVngjOdrpsuHno/view?usp=sharing))**
+- 📁 **[Download Materials from Google Drive]((https://drive.google.com/drive/folders/1np3upS_MheTeqs9HGSPPvrx6tDoSikIk?usp=sharing))**
 
 ## Run on Binder
 
