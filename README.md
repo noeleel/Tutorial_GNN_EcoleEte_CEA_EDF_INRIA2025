@@ -57,7 +57,7 @@ You can try out the code and materials using the following resources:
 ### Animated Output (Training or Results)
 
 
-<img src="./oversmoothing/PerNodes_LDG_L6_Ev0.gif" alt="" width="1000" />
+<img src="./oversmoothing/PerNodes_LDG_L8_Ev0.gif" alt="" width="1000" />
 
 ---
 
