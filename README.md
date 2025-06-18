@@ -19,6 +19,7 @@ You can try out the code and materials using the following resources:
 
 - ▶️ **[Open in Google Colab](https://colab.research.google.com/drive/your-colab-notebook-link)**
 - 📁 **[Download Materials from Google Drive](https://drive.google.com/drive/folders/your-folder-id)**
+- **[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gesis.mybinder.org/user/noeleel-tutoria-a_edf_inria2025-qcl4bvey/doc/tree/GNN_Tutorial.ipynb)
 
 ---
 
