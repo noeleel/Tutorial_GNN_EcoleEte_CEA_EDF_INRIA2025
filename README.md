@@ -15,9 +15,6 @@
 **Corresponding author:** [christophe.millet@cea.fr](mailto:christophe.millet@cea.fr)
 
 **Link to the article:** X. Cassagnou et al., **Dynamic graph neural networks for seismic characterization** (To be published)
-
-The data and models in this tutorial will be published upon acceptation of the article.
-
 **Date :** 19th June 2025
 
 **License :** MIT
@@ -31,6 +28,8 @@ You can try out the code and materials using the following resources:
 
 - ▶️ **[Open in Google Colab](https://drive.google.com/file/d/1esIDkc7fMs2Im22hrHqVngjOdrpsuHno/view?usp=sharing)**
 - 📁 **[Download Materials from Google Drive](https://drive.google.com/drive/folders/1np3upS_MheTeqs9HGSPPvrx6tDoSikIk?usp=sharing)**
+
+Due to the large size of the training/testing data and models related to oversmoothing (over 10 GB), they are not included directly in the GitHub repository. However, you can access them via the provided Google Drive links.
 
 ---
 
