@@ -32,10 +32,6 @@ You can try out the code and materials using the following resources:
 - ▶️ **[Open in Google Colab](https://drive.google.com/file/d/1esIDkc7fMs2Im22hrHqVngjOdrpsuHno/view?usp=sharing)**
 - 📁 **[Download Materials from Google Drive](https://drive.google.com/drive/folders/1np3upS_MheTeqs9HGSPPvrx6tDoSikIk?usp=sharing)**
 
-## Run on Binder
-
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gesis.mybinder.org/user/noeleel-tutoria-a_edf_inria2025-qcl4bvey/doc/tree/GNN_Tutorial.ipynb)
-
 ---
 
 ## Repository Content
