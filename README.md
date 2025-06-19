@@ -42,11 +42,14 @@ You can try out the code and materials using the following resources:
 
 | Folder/File         | Description |
 |---------------------|-------------|
-| `modules/`          | Source code for the main model and utilities. |
+| `modules/`          | Source code for the results'plots, models and utilities. |
 | `oversmoothing/`    | Source code and plots for the oversmoothing part. |
 | `data/`             | Sample synthetic or preprocessed datasets. |
 | `images/`           | Images |
 | `README.md`         | This file. |
+| `requirements.txt`         | List of mandatory Python modules for running this tutorial. |
+| `License`         | License information. |
+| `GNN_Tutorial.ipynb`         | Jupyter notebook for launching the tutorial |
 
 ---
 
