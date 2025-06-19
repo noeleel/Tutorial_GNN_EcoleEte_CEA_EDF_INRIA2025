@@ -15,6 +15,7 @@
 **Corresponding author:** [christophe.millet@cea.fr](mailto:christophe.millet@cea.fr)
 
 **Link to the article:** X. Cassagnou et al., **Dynamic graph neural networks for seismic characterization** (To be published)
+
 **Date :** 19th June 2025
 
 **License :** MIT
